@@ -23,7 +23,7 @@
 
 <br>
 
-## 👩🏼‍🦱 &nbsp;Social Links
+##Social Links
 
 <a href="https://linkedin.com/in/annaclaudiasouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-annaclaudiasouza-836FFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
