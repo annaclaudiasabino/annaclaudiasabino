@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋, eu sou a Anna</h1>
+<h1 align="left">Hi 👋, my name is Anna</h1>
 
 🔥 Front-end developer<br>
 👩🏼‍💻 Hard Skills **HTML, CSS, JavaScript**
