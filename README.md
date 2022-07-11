@@ -8,8 +8,8 @@
 
 <div align="left">
   <a href="https://github.com/annassabino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaclaudiasouza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaclaudiasouza&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaclaudiasabino&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaclaudiasabino&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge)&nbsp;
