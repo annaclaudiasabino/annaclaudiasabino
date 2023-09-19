@@ -7,7 +7,7 @@
 <br>
 
 <div align="left">
-  <a href="https://github.com/annassabino">
+  <a href="https://github.com/annaclaudiasabino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaclaudiasabino&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaclaudiasabino&layout=compact&langs_count=7&theme=jolly"/>
 </div>
@@ -25,10 +25,10 @@
 
 ## Social Links
 
-<a href="https://linkedin.com/in/annaclaudiasouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-annaclaudiasouza-836FFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<a href="https://linkedin.com/in/annaclaudiasabino" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-annaclaudiasabino-836FFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/annaclaudia.dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-annaclaudia.dev-836FFF?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+<a href="https://instagram.com/annassabino" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-annaclaudiasabino-836FFF?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
