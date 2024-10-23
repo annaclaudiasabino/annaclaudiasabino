@@ -1,34 +1,19 @@
 <h1 align="left">Hi 👋, my name is Anna</h1>
-
-🔥 Front-end developer<br>
-👩🏼‍💻 Hard Skills **HTML, CSS, JavaScript**
-
-
 <br>
-
-<div align="left">
-  <a href="https://github.com/annaclaudiasabino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaclaudiasabino&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaclaudiasabino&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1471b6?style=for-the-badge)&nbsp;
-![React](https://img.shields.io/badge/-React-62dafb?style=for-the-badge)&nbsp;
-![Git](https://img.shields.io/badge/-Git-f34f28?style=for-the-badge)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-100e0f?style=for-the-badge)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0065a9?style=for-the-badge)&nbsp;
-
-
-<br>
-
-## Social Links
-
 <a href="https://linkedin.com/in/annaclaudiasabino" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-annaclaudiasabino-836FFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/annassabino" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-annaclaudiasabino-836FFF?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
+
+<br>
+I am a **Software Engineer** passionate about web technologies, Front-end and Back-end. 
+Currently, I spend my time with **JavaScript**, **React** and **Node.js**.
+
+🎶 Outside of coding, I'm a fan of series and music.
+
+🌟 **"Believe in yourself, learn relentlessly, and conquer your dreams."**
+
+
 
